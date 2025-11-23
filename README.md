@@ -43,8 +43,3 @@ Explain how to use the project. Provide examples if applicable:
     ```
 5. Open a pull request.
 
-## License
-Specify the license under which the project is distributed.
-
-## Acknowledgments
-- Mention any resources, libraries, or contributors that helped in the development.
